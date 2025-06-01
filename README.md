@@ -7,6 +7,7 @@ SmartDoc is an AI-powered web application that allows users to upload PDF docume
 ## 🛠️ Tech Stack
 
 - **Frontend**: Angular
+- **Database**: MongoDB
 - **Backend**: Python (FastAPI) & Node.js
 - **AI Models**: OpenAI / Anthropic Claude (for intelligent document Q&A)
 - **Database**: Optional (e.g., for storing uploaded files or chat history)
